@@ -70,9 +70,9 @@ async def about_cb(c, m):
 
 👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: {owner.mention(style='md')}
 
-📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [TOBOT UPDATE](https://t.me/tobot_update)
+📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [CHANNEL](https://t.me/BollyArchives)
 
-👥 𝐆𝐫𝐨𝐮𝐩: [TOBOT UPDATE](https://t.me/tobotupdate)
+👥 𝐆𝐫𝐨𝐮𝐩: [GROUP](https://t.me/tobotupdate)
 """
 
     # creating buttons
